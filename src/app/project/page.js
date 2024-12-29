@@ -6,7 +6,7 @@ import "aos/dist/aos.css"; // Import AOS styles
 useEffect(() => {
      AOS.init();
  
-}, [third])
+}, [])
 
 
 const Page = () => {
