@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import Link from "next/link";
 import AOS from "aos"; // For animations
 import "aos/dist/aos.css"; // Import AOS styles
