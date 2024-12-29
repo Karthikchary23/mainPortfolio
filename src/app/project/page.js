@@ -1,13 +1,8 @@
 "use client";
-import React, { useState,useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import AOS from "aos"; // For animations
 import "aos/dist/aos.css"; // Import AOS styles
-useEffect(() => {
-     AOS.init();
- 
-}, [])
-
 
 const Page = () => {
   // Hardcoded project data (since no server components are used)
@@ -54,6 +49,13 @@ const Page = () => {
   const handleToggleDescription = (index) => {
     setExpandedIndex(expandedIndex === index ? null : index);
   };
+
+  // Initialize AOS only on the client-side
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      AOS.init(); // Initialize AOS animations
+    }
+  }, []);
 
   return (
     <div className="text-white p-8">
