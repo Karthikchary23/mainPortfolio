@@ -64,7 +64,7 @@ export default function page() {
               </Link>
             </div>
             <div className="w-14 h-14 sm:w-16 sm:h-16">
-              <Link href="https://www.facebook.com/lovely.karthik.313924">
+              <Link href="#">
                 <img src="/facebook.gif" alt="Facebook" />
               </Link>
             </div>
@@ -74,7 +74,7 @@ export default function page() {
               </Link>
             </div>
             <div className="w-14 h-14 sm:w-16 sm:h-16">
-              <Link href="https://twitter.com/lingojikarthik">
+              <Link href="#">
                 <img src="/twitter.gif" alt="Twitter" />
               </Link>
             </div>
