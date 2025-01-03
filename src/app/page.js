@@ -34,7 +34,7 @@ export default function page() {
                 className="profession text-4xl sm:text-2xl md:3xl lg:text-4xl"
                 data-aos="fade-up"
               >
-                Full Stack Web Developer, Pentester
+                Full Stack Web Developer
               </span>
               <div
                 className="description mt-3 text-sm sm:text-md md:text-lg "
