@@ -46,7 +46,7 @@ const Page = () => {
       projectimage: "music.png",
       projectname: "Music Player",
       projectdescription:
-        "The Music Player is a simple web application that allows users to play music tracks. Developed using HTML, CSS, and JavaScript and nextjs, this project demonstrates the creation of interactive and user-friendly interfaces for media playback.",
+        "The Music Player is a simple web application that allows users to play music tracks. Developed using HTML, CSS, and JavaScript and Nextjs, this project demonstrates the creation of interactive and user-friendly interfaces for media playback.",
       github: "https://kc-music.vercel.app/music",
     },
   ];
