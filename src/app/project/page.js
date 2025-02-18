@@ -42,6 +42,13 @@ const Page = () => {
         "The Zomato Clone is a static front-end project that replicates the design of the popular restaurant discovery and food delivery platform, Zomato. Created using HTML and CSS, this project showcases expertise in crafting visually appealing and responsive web designs with attention to detail.",
       github: "https://github.com/Karthikchary23/Zomato-clone1",
     },
+    {
+      projectimage: "music.png",
+      projectname: "Music Player",
+      projectdescription:
+        "The Music Player is a simple web application that allows users to play music tracks. Developed using HTML, CSS, and JavaScript and nextjs, this project demonstrates the creation of interactive and user-friendly interfaces for media playback.",
+      github: "https://kc-music.vercel.app/music",
+    },
   ];
 
   const [expandedIndex, setExpandedIndex] = useState(null);
