@@ -15,11 +15,24 @@ const Page = () => {
       github: "https://github.com/Karthikchary23/Election-Management-",
     },
     {
+      projectimage: "/chatting.png",
+      projectname: "Connect chat",
+      projectdescription:" https://www.linkedin.com/feed/update/urn:li:activity:7300792837887967232/ 🚀 ChatConnect: A simple real-time chat app with OTP-verified accounts! 💬 Users sign up, log in, and chat instantly using React and Node.js. 🗄️ MongoDB stores data, Socket.IO enables real-time messaging, and Nodemailer secures sign-ups with emails. 🌍 Deployed on Heroku’s free tier for easy access. ✨ Secure, fun, and straightforward!",
+      github: "https://github.com/Karthikchary23/chatting_app",
+    },
+    {
       projectimage: "https://github.com/Karthikchary23/images/blob/main/Screenshot%202024-12-27%20194215.png?raw=true",
       projectname: "Password Manager",
       projectdescription:
         "This project is a secure and user-friendly Password Manager Website designed to store and manage usernames and passwords effectively. Built using React.js for the front-end and Express.js for the back-end, the application ensures a seamless and responsive user experience. The website leverages HTML, CSS, and Tailwind CSS for an elegant and customizable interface, while JavaScript handles client-side logic for smooth interactivity.",
       github: "https://github.com/Karthikchary23/PasswordManager",
+    },
+    {
+      projectimage: "music.png",
+      projectname: "Music Player",
+      projectdescription:
+        "The Music Player is a simple web application that allows users to play music tracks. Developed using HTML, CSS, and JavaScript and Nextjs, this project demonstrates the creation of interactive and user-friendly interfaces for media playback.",
+      github: "https://kc-music.vercel.app/music",
     },
     {
       projectimage: "https://github.com/Karthikchary23/images/blob/main/Screenshot%202024-12-27%20194852.png?raw=true",
@@ -42,13 +55,7 @@ const Page = () => {
         "The Zomato Clone is a static front-end project that replicates the design of the popular restaurant discovery and food delivery platform, Zomato. Created using HTML and CSS, this project showcases expertise in crafting visually appealing and responsive web designs with attention to detail.",
       github: "https://github.com/Karthikchary23/Zomato-clone1",
     },
-    {
-      projectimage: "music.png",
-      projectname: "Music Player",
-      projectdescription:
-        "The Music Player is a simple web application that allows users to play music tracks. Developed using HTML, CSS, and JavaScript and Nextjs, this project demonstrates the creation of interactive and user-friendly interfaces for media playback.",
-      github: "https://kc-music.vercel.app/music",
-    },
+    
   ];
 
   const [expandedIndex, setExpandedIndex] = useState(null);
