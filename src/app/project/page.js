@@ -17,7 +17,7 @@ const Page = () => {
     {
       projectimage: "/chatting.png",
       projectname: "Connect chat",
-      projectdescription:" https://www.linkedin.com/feed/update/urn:li:activity:7300792837887967232/ 🚀 ChatConnect: A simple real-time chat app with OTP-verified accounts! 💬 Users sign up, log in, and chat instantly using React and Node.js. 🗄️ MongoDB stores data, Socket.IO enables real-time messaging, and Nodemailer secures sign-ups with emails. 🌍 Deployed on Heroku’s free tier for easy access. ✨ Secure, fun, and straightforward!",
+      projectdescription:" 🚀 ChatConnect: A simple real-time chat app with OTP-verified accounts! 💬 Users sign up, log in, and chat instantly using React and Node.js. 🗄️ MongoDB stores data, Socket.IO enables real-time messaging, and Nodemailer secures sign-ups with emails. 🌍 Deployed on Heroku’s free tier for easy access. ✨ Secure, fun, and straightforward!",
       github: "https://github.com/Karthikchary23/chatting_app",
     },
     {
