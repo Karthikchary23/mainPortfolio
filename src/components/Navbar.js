@@ -52,6 +52,9 @@ const Navbar = () => {
             <Link href="/contact" className="text-white hover:text-blue-300 transition duration-200">
               Contact
             </Link>
+            <Link href="/Karthik chary resume .pdf" className="text-white hover:text-blue-300 transition duration-200">
+              Resume
+            </Link>
           </div>
   
           {/* Mobile Menu Button */}
