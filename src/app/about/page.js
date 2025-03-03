@@ -82,6 +82,10 @@ const Page = () => {
       skill: "https://rhtech.geekhunter.com.br/wp-content/uploads/2022/04/github.png",
       skillname: "GitHub",
     },
+    {
+      skill: "https://imgs.search.brave.com/jPMNvIzo2fGbjhZAg78ns4T913-1PREgFJh9l_iovhQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXQtaWNv/bi0xMDI0eDEwMjQt/dDFlbTdyMWcucG5n",
+      skillname: "Git",
+    },
   ];
 
   useEffect(() => {
