@@ -12,6 +12,13 @@ const Page = () => {
       {
         _id: "676ed8957970e6a736d0c273",
         certificateimage:
+          "https://www.credly.com/badges/a77b569b-a3c1-41ef-874a-ca6ab0dfe662/linked_in?t=svop6d",
+        certificatename: "Prompt Design in Vertex AI Skill Badg",
+        certificateprovider: "Google Cloud",
+      },
+      {
+        _id: "676ed8957970e6a736d0c273",
+        certificateimage:
           "https://github.com/Karthikchary23/images/blob/main/Screenshot%202024-12-27%20214528.png?raw=true",
         certificatename: "Cyber Security",
         certificateprovider: "Cisco",
