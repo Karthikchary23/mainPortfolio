@@ -12,7 +12,7 @@ const Page = () => {
       {
         _id: "676ed8957970ea7736d0c273",
         certificateimage:
-          "https://www.credly.com/badges/a77b569b-a3c1-41ef-874a-ca6ab0dfe662/linked_in?t=svop6d",
+          "/prompt-design-in-vertex-ai-skill-badge - Copy.png",
         certificatename: "Prompt Design in Vertex AI Skill Badg",
         certificateprovider: "Google Cloud",
       },
@@ -37,13 +37,7 @@ const Page = () => {
         certificatename: "JavaScript Essential 1",
         certificateprovider: "Cisco",
       },
-      {
-        _id: "676ed83a7970e6a736d0c27f", // Duplicate _id
-        certificateimage:
-          "https://github.com/Karthikchary23/images/blob/main/Screenshot%202024-12-27%20214452.png?raw=true",
-        certificatename: "JavaScript Essential 1",
-        certificateprovider: "Cisco",
-      },
+      
       {
         _id: "676ed8ec7970e6a736d0c277",
         certificateimage:
